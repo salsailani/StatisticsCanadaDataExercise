@@ -1,5 +1,5 @@
 
-# Scotiabank Statistics Canada Data Exercise
+# Statistics Canada Data Exercise
 
 Must download the datasets and place them in the dataset folder (could not push due to file size)
 
