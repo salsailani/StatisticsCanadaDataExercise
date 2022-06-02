@@ -1,0 +1,116 @@
+Western region
+-------------------------
+
+a.
+Proportion of population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportion: 0.07330425673361671
+Non_Aboriginal Proportion: 0.9266968624580583
+
+b.
+Average Total Income for Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Average Income: 35649.25
+Non-Aboriginal Average Income: 51952.25
+
+c.
+Proportion of male vs female population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportions:
+Male Proportion: 0.4737509065231497 Female Proportion: 0.5262567273560059
+
+Non_Aboriginal Proportions:
+Male proportion: 0.4940957517794266 Female proportion: 0.5059048520812965
+
+d.
+Age group with the most number of individuals with Aboriginal Identity:
+
+25 to 64 years
+
+Central region
+-------------------------
+
+a.
+Proportion of population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportion: 0.024201990412341733
+Non_Aboriginal Proportion: 0.9757980095876583
+
+b.
+Average Total Income for Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Average Income: 35331.0
+Non-Aboriginal Average Income: 45471.0
+
+c.
+Proportion of male vs female population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportions:
+Male Proportion: 0.48091603053435117 Female Proportion: 0.5190956594928866
+
+Non_Aboriginal Proportions:
+Male proportion: 0.48692940361571363 Female proportion: 0.5130703064452576
+
+d.
+Age group with the most number of individuals with Aboriginal Identity:
+
+25 to 64 years
+
+Atlantic region
+-------------------------
+
+a.
+Proportion of population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportion: 0.051707074436444934
+Non_Aboriginal Proportion: 0.9482980534531208
+
+b.
+Average Total Income for Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Average Income: 34730.5
+Non-Aboriginal Average Income: 41485.5
+
+c.
+Proportion of male vs female population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportions:
+Male Proportion: 0.48147964496454604 Female Proportion: 0.5185203550354539
+
+Non_Aboriginal Proportions:
+Male proportion: 0.4838086946647236 Female proportion: 0.5161913053352765
+
+d.
+Age group with the most number of individuals with Aboriginal Identity:
+
+25 to 64 years
+
+Northern region
+-------------------------
+
+a.
+Proportion of population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportion: 0.21745152354570638
+Non_Aboriginal Proportion: 0.7823753462603878
+
+b.
+Average Total Income for Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Average Income: 41443.0
+Non-Aboriginal Average Income: 57130.0
+
+c.
+Proportion of male vs female population by Aboriginal Identity and Non-Aboriginal Identity:
+
+Aboriginal Proportions:
+Male Proportion: 0.464171974522293 Female Proportion: 0.5366242038216561
+
+Non_Aboriginal Proportions:
+Male proportion: 0.5045364018588183 Female proportion: 0.4956848860367338
+
+d.
+Age group with the most number of individuals with Aboriginal Identity:
+
+25 to 64 years
+
