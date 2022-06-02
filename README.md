@@ -1,9 +1,14 @@
-Scotiabank Statistics Canada Data Exercise
+
+# Scotiabank Statistics Canada Data Exercise
+
+Must download the datasets and place them in the dataset folder (could not push due to file size)
 
 Dataset 1: https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=1&LANG=E&A=R&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=01&GL=-1&GID=1341679&GK=1&GRP=1&O=D&PID=110523&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=122&VID=0&VNAMEE=&VNAMEF=&D1=0&D2=0&D3=0&D4=0&D5=0&D6=0
 
 Dataset 2: https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?TABID=2&Lang=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=1235625&GK=0&GRP=1&PID=110270&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2016&THEME=119&VID=0&VNAMEE=&VNAMEF=&D1=0&D2=0&D3=0&D4=0&D5=0&D6=0
 
+Task 1
+-----------------------------------------------------------------------------------------------------------------
 
 Task 1: Download and Ingest the following datasets in a data store of your choice
 
@@ -18,7 +23,8 @@ Task 1: Download and Ingest the following datasets in a data store of your choic
 1.5) In ETLscripts/Load_from_staging_to_target.py, read the two datasets from the staging database, do transformations on the "total aboriginal", "aboriginal", and "non-aboriginal" columns value where the values are non numeric, convert them to NaN using pandas, create the target database with the two dataset tables, and insert the records
 
 
-
+Task 2
+-----------------------------------------------------------------------------------------------------------------
 
 Task 2: Using Dataset 1, using any programming language, calculate and store the following metrics by Canadian regions based on the “Four-Region Model”
 
@@ -38,4 +44,3 @@ d) In queries/auxilary/Get_max_aboriginal_age_group.py, age group with most numb
 
 2.4) In queries/main.py, loop through the regions array and run all the query functions (the app was designed at first to accept one region at a time), output all print statements to output.txt in queries folder
 
-Modules: Python 3.7.9, pandas, PyMongo, sys, dotenv.main
